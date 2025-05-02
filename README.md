@@ -24,12 +24,11 @@
 
 | Project | Description | Link |
 |:-------|:------------|:----|
-| **lLiUi-V2** | A fast and powerful JavaScript DOM Library | [GitHub Repo](https://github.com/Abdun-Nur-Porag/lLiUi-V2) |
-| **LiUi-WXML** | Lightweight XML-based DOM Library | [GitHub Repo](https://github.com/Abdun-Nur-Porag/LiUi-WXML) |
 | **CARBON-NATIVE** | Lightweight React+UIVE+MD -based DOM Library | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V1) |
 | **CARBON-NATIVE-BETA** | Lightweight Carbon Native -based DOM Library | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-Beta)
-
-
+| **CARBON-NATIVE-V2** | Latest Release Of Carbon Native V1 | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V1/releases/tag/CarbonNative) |
+| **lLiUi-V2** | A fast and powerful JavaScript DOM Library | [GitHub Repo](https://github.com/Abdun-Nur-Porag/lLiUi-V2) |
+| **LiUi-WXML** | Lightweight XML-based DOM Library | [GitHub Repo](https://github.com/Abdun-Nur-Porag/LiUi-WXML) |
 
 ---
 

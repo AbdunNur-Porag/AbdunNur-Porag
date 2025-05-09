@@ -1,7 +1,11 @@
 # 👋 Hi, I'm **Abdun Nur Poarg**!
 
+
+
+---
+
 ## 🧠 About Me
-- I am Abdun Nur Poarg
+- **Name:** Abdun Nur Poarg
 - **Passions:**  
   - ⚙️ Programming  
   - 🛠️ Framework & Library Design  
@@ -15,20 +19,17 @@
   - 🧩 Predefined + Customizable Components
 
 ---
-
 ## 🚀 Featured Projects
 
 | Project | Description | Link |
-|:-------|:------------|:----|
+|:--------|:------------|:-----|
+| **CARBON-NATIVE-V2.1 (Sigma)** *(Newest & Fastest)* | Fastest and most advanced Carbon Native version | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V2.1-Sigma-) |
+| **CARBON-NATIVE-V2** *(Latest Stable)* | Stable release evolved from Carbon Native V1 | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V1/releases/tag/CarbonNative) |
+| **CARBON-NATIVE** *(Stable)* | Lightweight React + UIVE + MD-based DOM library | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V1) |
+| **CARBON-NATIVE-BETA** *(Beta)* | Experimental build of Carbon Native | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-Beta) |
+| **lLiUi-V2** | A fast and powerful JavaScript DOM library | [GitHub Repo](https://github.com/Abdun-Nur-Porag/lLiUi-V2) |
+| **LiUi-WXML** | Lightweight XML-based DOM library | [GitHub Repo](https://github.com/Abdun-Nur-Porag/LiUi-WXML) |
 
-| **CARBON-NATIVE-V2.1(Sigma)** | Latest release, Easy and Faster then other carbon native libary.| [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V2.1-Sigma-)
-| **CARBON-NATIVE** | Lightweight React+UIVE+MD -based DOM Library | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V1) |
-| **CARBON-NATIVE-BETA** | Lightweight Carbon Native -based DOM Library | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-Beta)
-| **CARBON-NATIVE-V2** | Latest Release Of Carbon Native V1 | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V1/releases/tag/CarbonNative) |
-| **lLiUi-V2** | A fast and powerful JavaScript DOM Library | [GitHub Repo](https://github.com/Abdun-Nur-Porag/lLiUi-V2) |
-| **LiUi-WXML** | Lightweight XML-based DOM Library | [GitHub Repo](https://github.com/Abdun-Nur-Porag/LiUi-WXML) |
-
----
 
 ## 🛠️ Pro Skills
 
@@ -47,17 +48,20 @@
 
 ---
 
-## 📊 GitHub Stats
+
+## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdun-Nur-Porag&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdunNur-Porag&show_icons=true&count_private=true&include_all_commits=true&theme=radical&custom_title=Overall%20GitHub%20Stats" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdunNur-Porag&layout=compact&theme=radical&langs_count=6&hide_title=true" alt="Top Languages" />
 </p>
+
 
 ---
 
 ## ✨ Quote
-> **"Turning ideas into code, one project at a time."**
-
+> **Don't think about what you can't do; always focus on what you can do.**
 ---
 
 <p align="center">

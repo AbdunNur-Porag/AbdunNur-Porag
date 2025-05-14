@@ -23,8 +23,8 @@
 
 | Project | Description | Link |
 |:--------|:------------|:-----|
-| **CARBON-NATIVE-V2.1 (Sigma)** *(Newest & Fastest)* | Fastest and most advanced Carbon Native version | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V2.1-Sigma-) |
-| **CARBON-NATIVE-V2** *(Latest Stable)* | Stable release evolved from Carbon Native V1 | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V1/releases/tag/CarbonNative) |
+| **CARBON-NATIVE-V2.1 (Sigma)** *(Newest & Fastest)* | Fastest and most advanced Carbon Native version | [UIVE	based][GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V2.1-Sigma-) |
+| **CARBON-NATIVE-V2.2** *(Latest Stable)* | Stable release evolved from Carbon Native.Support router,activity animation,more[React Based]| [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V2.2-Main) |
 | **CARBON-NATIVE** *(Stable)* | Lightweight React + UIVE + MD-based DOM library | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V1) |
 | **CARBON-NATIVE-BETA** *(Beta)* | Experimental build of Carbon Native | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-Beta) |
 | **lLiUi-V2** | A fast and powerful JavaScript DOM library | [GitHub Repo](https://github.com/Abdun-Nur-Porag/lLiUi-V2) |

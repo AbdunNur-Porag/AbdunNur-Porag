@@ -10,23 +10,24 @@
 * **Passions:**
 
   * ⚙️ Programming
-  * 🛠️ Framework & Library Design
+  * ⚙️ Carbon Native SDK Building
   * 📖 NLP Dataset Development
 * **Currently Working On:**
-  Building a next-gen **DOM Library** that merges:
+  Building on **Native Apk Building Library** that merges:
 
   * ⚛️ React-like Component Architecture
   * 🎨 Material Design Principles
   * 🔒 Secure, Built-in Routing
   * ⚡ Full SPA (Single Page Application) Support
   * 🧩 Predefined & Customizable UI Components
-
+  * Encrypted Apk Bundle 
 ---
 
 ## 🚀 Featured Projects
 
 | Project                                           | Description                                       | Link                                                                       |
 | ------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Carbon Native SDK**| Newest Relase For Apk Build SDK tool kit|[GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-SDK)|
 | **CARBON-NATIVE-V2.1 (Sigma)** *(Latest, Stable)* | **UIVE-based** DOM UI framework                   | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V2.1-Sigma-) |
 | **CARBON-NATIVE-V2.2** *(Latest, Stable)*         | **React-based** variant of Carbon Native          | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V2.2-Main)   |
 | **CARBON-NATIVE (V1)** *(Old, Stable)*            | Lightweight React + UIVE + MD-powered DOM library | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V1)          |

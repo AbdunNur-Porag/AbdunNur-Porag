@@ -1,5 +1,4 @@
 
-
 # 👋 Hi, I'm **Abdun Nur Poarg**!
 
 ---
@@ -10,28 +9,30 @@
 * **Passions:**
 
   * ⚙️ Programming
-  * ⚙️ Carbon Native SDK Building
-  * 📖 NLP Dataset Development
+  * 🧱 Carbon Native SDK Development
+  * 📚 NLP Dataset Design
 * **Currently Working On:**
-  Building on **Native Apk Building Library** that merges:
+  Developing a **Native APK Building Library** featuring:
 
   * ⚛️ React-like Component Architecture
   * 🎨 Material Design Principles
-  * 🔒 Secure, Built-in Routing
+  * 🔒 Built-in Secure Routing
   * ⚡ Full SPA (Single Page Application) Support
   * 🧩 Predefined & Customizable UI Components
-  * Encrypted Apk Bundle 
+  * 📦 Encrypted APK Bundling
+
 ---
 
 ## 🚀 Featured Projects
 
 | Project                                           | Description                                       | Link                                                                       |
 | ------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------------------------------- |
-| **Carbon Native SDK**| Newest Relase For Apk Build SDK tool kit|[GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-SDK)|
-| **CARBON-NATIVE-V2.1 (Sigma)** *(Latest, Stable)* | **UIVE-based** DOM UI framework                   | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V2.1-Sigma-) |
-| **CARBON-NATIVE-V2.2** *(Latest, Stable)*         | **React-based** variant of Carbon Native          | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V2.2-Main)   |
+| **Carbon CXML V1.0**                              | Latest release, more powerful than Carbon Native  | [Github Repo](https://github.com/AbdunNur-Porag/carbon-cxml-v1.0)                                                         |
+| **Carbon Native SDK**                             | Toolkit for building APKs using Carbon Native     | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-SDK)         |
+| **CARBON-NATIVE-V2.1 (Sigma)** *(Latest, Stable)* | UIVE-based DOM UI framework                       | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V2.1-Sigma-) |
+| **CARBON-NATIVE-V2.2** *(Latest, Stable)*         | React-based variant of Carbon Native              | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V2.2-Main)   |
 | **CARBON-NATIVE (V1)** *(Old, Stable)*            | Lightweight React + UIVE + MD-powered DOM library | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-V1)          |
-| **CARBON-NATIVE-BETA** *(Old, Beta)*              | Experimental branch with cutting-edge features    | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-Beta)        |
+| **CARBON-NATIVE-BETA** *(Old, Beta)*              | Experimental build with cutting-edge features     | [GitHub Repo](https://github.com/AbdunNur-Porag/Carbon-Native-Beta)        |
 | **lLiUi-V2**                                      | High-performance JavaScript DOM library           | [GitHub Repo](https://github.com/Abdun-Nur-Porag/lLiUi-V2)                 |
 | **LiUi-WXML**                                     | Lightweight XML-based DOM handling library        | [GitHub Repo](https://github.com/Abdun-Nur-Porag/LiUi-WXML)                |
 
@@ -74,4 +75,3 @@
   <b>Thanks for visiting!</b><br/>
   <i>Feel free to explore my work and connect with me!</i>
 </p>
-
